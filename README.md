@@ -1,1 +1,1 @@
-# GAMESS-X
+# Gaming website
